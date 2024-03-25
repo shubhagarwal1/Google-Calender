@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Google-Calender
 Recreation of the google calendar app in its entirety (aside from components that utilize google apis).
 =======
@@ -9,8 +8,6 @@ demo: lightmode / weekview
 
 demo: darkmode / monthview
 ![screen](screenshots/screen_month_dark.png)
-
-Contact: ottofy@zohomail.com
 
 [Live project link](https://chaseottofy.github.io/google-calendar-clone-vanilla/)
 
